@@ -1,0 +1,111 @@
+{
+  "version": "0.1.0",
+  "name": "ledger_program",
+  "instructions": [
+    {
+      "name": "startLedger",
+      "accounts": [
+        {
+          "name": "signer",
+          "isMut": true,
+          "isSigner": true
+        },
+        {
+          "name": "monitorAta",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "ledgerAccount",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "systemProgram",
+          "isMut": false,
+          "isSigner": false
+        }
+      ],
+      "args": [
+        {
+          "name": "randomSeed",
+          "type": "u64"
+        }
+      ]
+    },
+    {
+      "name": "endLedger",
+      "accounts": [
+        {
+          "name": "signer",
+          "isMut": false,
+          "isSigner": true
+        },
+        {
+          "name": "monitorAta",
+          "isMut": false,
+          "isSigner": false
+        },
+        {
+          "name": "ledgerAccount",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "destinationAta",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "tokenProgram",
+          "isMut": false,
+          "isSigner": false
+        }
+      ],
+      "args": [
+        {
+          "name": "randomSeed",
+          "type": "u64"
+        },
+        {
+          "name": "minimumProfit",
+          "type": "u64"
+        },
+        {
+          "name": "divisionFactor",
+          "type": "u8"
+        }
+      ]
+    }
+  ],
+  "accounts": [
+    {
+      "name": "LedgerAccount",
+      "type": {
+        "kind": "struct",
+        "fields": [
+          {
+            "name": "balance",
+            "type": "u64"
+          },
+          {
+            "name": "randomSeed",
+            "type": "u64"
+          }
+        ]
+      }
+    }
+  ],
+  "errors": [
+    {
+      "code": 6000,
+      "name": "ProfitNotMet",
+      "msg": "The expected profit was not met."
+    },
+    {
+      "code": 6001,
+      "name": "Error",
+      "msg": "Err"
+    }
+  ]
+}
