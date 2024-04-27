@@ -1,4 +1,4 @@
-# rude-bot-solana-arbitrage
+# Solana Arbitrage Bot
 ### To get started, check out the beginner setup video or documentation below! In the docs, start with reading about requirements and then navigate to the setup page!
 
 Beginner Setup Video: https://www.youtube.com/watch?v=RNhc0KRa2AI
