@@ -5,9 +5,9 @@ Beginner Setup Video: https://www.youtube.com/watch?v=RNhc0KRa2AI
 
 Discord: https://discord.gg/6DTGbMNYuA
 
-Documentation: https://rude-bot-org.gitbook.io/rude-solana-arbitrage-bot/
+Documentation: [SolanaArbitrage.com](https://www.solanaarbitrage.com/)
 
-Track your profits here: https://www.solanaarbitrage.com/balances
+Track your profits here: [SolanaArbitrage.com/balances](https://www.solanaarbitrage.com/balances)
 
 An arbitrage bot for the Solana blockchain written in Typescript and dependent on Jupiter v6.
 
