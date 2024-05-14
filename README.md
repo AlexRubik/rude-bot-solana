@@ -7,7 +7,7 @@ Discord: https://discord.gg/6DTGbMNYuA
 
 Documentation: [SolanaArbitrage.com](https://www.solanaarbitrage.com/)
 
-Track your profits here: [SolanaArbitrage.com/balances](https://www.solanaarbitrage.com/balances)
+Track your balances here: [SolanaArbitrage.com/balances](https://www.solanaarbitrage.com/balances)
 
 An arbitrage bot for the Solana blockchain written in Typescript and dependent on Jupiter v6.
 
