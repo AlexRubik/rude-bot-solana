@@ -11,4 +11,6 @@ Track your balances here: [SolanaArbitrage.com/balances](https://www.solanaarbit
 
 An arbitrage bot for the Solana blockchain written in Typescript and dependent on Jupiter v6.
 
-All transactions and summary statistics that this arbitrage bot produces can be seen here: https://solscan.io/account/3tZPEagumHvtgBhivFJCmhV9AyhBHGW9VgdsK52i4gwP
+All transactions and summary statistics that this arbitrage bot produces can be seen here: 
+https://solscan.io/account/3tZPEagumHvtgBhivFJCmhV9AyhBHGW9VgdsK52i4gwP
+https://solscan.io/account/72FXMcchZS4JRgQ62pKweYhHAkFA19PFoaqAUhWZmEFU
