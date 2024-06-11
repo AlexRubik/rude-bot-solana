@@ -3,7 +3,7 @@
 - **Shyft gRPC** for the Yellowstone arg in jup api
 - [Rackdog 28 core Ashburn server](https://billing.rackdog.com/aff.php?aff=53)
 
-[Solscan Account](https://solscan.io/account/CboAt536xrx4MFq9rmV9n3v7YfLMPAom33VF8QRUpRBY#splTransfers)
+[Solscan Demo Account](https://solscan.io/account/CboAt536xrx4MFq9rmV9n3v7YfLMPAom33VF8QRUpRBY#splTransfers)
 
 [Rackdog 28 core Ashburn server](https://billing.rackdog.com/aff.php?aff=53): $200  
 [QuickNode Scale Plan](https://www.quicknode.com/?via=rudearb): $300  
