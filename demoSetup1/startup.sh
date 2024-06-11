@@ -8,9 +8,9 @@ mints=$(echo "$mints" | tr -d '[:space:]' | tr '\n' ',' | sed 's/,$//')
 
 # Construct the command
 CMD="/fullPathToJupHere/jupiter-swap-api --filter-markets-with-mints $mints --market-cache https://cache.jup.ag/markets?v=3 \
---rpc-url https://rpc-url-here --allow-circular-arbitrage \
+--rpc-url https://quicknodeRpc --allow-circular-arbitrage \
 --enable-new-dexes \
--x access-token-here -e https://grpc-url-here"
+-x access-token-here -e https://shyftGrpc"
 
 # Execute the constructed command
 exec $CMD
