@@ -36,9 +36,8 @@ jup_url = "https://quote-api.jup.ag/v6"
 tokens_with_context_slot = []
 for base_token in base_token_strings:
     quote_url = f"{jup_url}/quote?inputMint=So11111111111111111111111111111111111111112&outputMint={base_token}&amount=1000000000&slippageBps=5&onlyDirectRoutes=false&asLegacyTransaction=false&maxAccounts=28"
-    quote_url = f"https://quote-api.jup.ag/v6/quote?inputMint=29BY5BHtLCG2mamRtC9hh9283U3QkbYLSCwXXmEJpump&outputMint=So11111111111111111111111111111111111111112&amount=1000000000&slippageBps=5&onlyDirectRoutes=false&asLegacyTransaction=false&maxAccounts=28"
-
-    quote_response = requests.get(quote_url) # 29BY5BHtLCG2mamRtC9hh9283U3QkbYLSCwXXmEJpump
+    
+    quote_response = requests.get(quote_url)
 
     if quote_response.status_code == 200:
         response_json = quote_response.json()
