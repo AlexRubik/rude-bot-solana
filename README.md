@@ -1,4 +1,7 @@
 # Solana Arbitrage Bot
+[![](https://dcbadge.limes.pink/api/server/6DTGbMNYuA)](https://discord.gg/6DTGbMNYuA)
+
+
 ### To get started, check out the beginner setup video or documentation below! In the docs, start with reading about requirements and then navigate to the setup page!
 
 Beginner Setup Video: https://www.youtube.com/watch?v=RNhc0KRa2AI
