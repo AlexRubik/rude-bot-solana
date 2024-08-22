@@ -1,6 +1,8 @@
 # Solana Arbitrage Bot
 [![](https://dcbadge.limes.pink/api/server/6DTGbMNYuA)](https://discord.gg/6DTGbMNYuA)
 
+Over $500k profit produced for users since April 2024!
+
 
 ### To get started, check out the beginner setup video or documentation below! In the docs, start with reading about requirements and then navigate to the setup page!
 
