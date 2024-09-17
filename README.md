@@ -3,6 +3,9 @@
 
 Over $500k profit produced for users since March 2024!
 
+The bot is free to use, but the code is closed source.
+Source code is for sale. If interested, reach out to Alex in the Discord server (@alexdev777).
+
 
 ### To get started, check out the beginner setup video or documentation below! In the docs, start with reading about requirements and then navigate to the setup page!
 
