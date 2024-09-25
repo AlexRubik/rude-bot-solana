@@ -1,7 +1,7 @@
 # Solana Arbitrage Bot
 [![](https://dcbadge.limes.pink/api/server/6DTGbMNYuA)](https://discord.gg/6DTGbMNYuA)
 
-Over $500k profit produced for users since March 2024!
+**Over $500k profit produced for users since March 2024!**
 
 The bot is free to use, but the code is closed source.
 Source code is for sale. If interested, reach out to Alex in the Discord server (@alexdev777).
