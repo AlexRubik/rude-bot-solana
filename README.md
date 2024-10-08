@@ -13,7 +13,7 @@ Beginner Setup Video: https://www.youtube.com/watch?v=RNhc0KRa2AI
 
 Discord: https://discord.gg/6DTGbMNYuA
 
-Documentation: [SolanaArbitrage.com](https://www.solanaarbitrage.com/)
+[Documentation](https://rude-bot-org.gitbook.io/)
 
 Track your balances here: [SolanaArbitrage.com/balances](https://www.solanaarbitrage.com/balances)
 
