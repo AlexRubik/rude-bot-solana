@@ -14,6 +14,8 @@ default_mints = [
     "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
     "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
                  ]
+
+force_mints_count = 40
     
 # check validity of the base token strings
 
@@ -76,9 +78,9 @@ def get_and_write_random_tokens(priority_mints):
     
     print("Length of all tokens before filtering and adding default mints:", len(all_tokens))
 
-    # Select 30 random tokens if there are more than 30
-    if len(all_tokens) > 30:
-        selected_tokens = random.sample(all_tokens, 30)
+    # Select x random tokens if there are more than x
+    if len(all_tokens) > force_mints_count:
+        selected_tokens = random.sample(all_tokens, force_mints_count)
     else:
         selected_tokens = all_tokens
 
