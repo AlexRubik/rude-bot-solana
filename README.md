@@ -9,7 +9,7 @@ Source code is for sale. If interested, reach out to Alex in the Discord server 
 
 ### To get started, check out the beginner setup video or documentation below! In the docs, start with reading about requirements and then navigate to the setup page!
 
-Beginner Setup Video: https://www.youtube.com/watch?v=RNhc0KRa2AI
+Beginner Setup Video: TBA, follow the channel for now: https://www.youtube.com/@SolanaArbitrage777
 
 Discord: https://discord.gg/6DTGbMNYuA
 
