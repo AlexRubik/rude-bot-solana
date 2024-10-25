@@ -15,7 +15,7 @@ Discord: https://discord.gg/6DTGbMNYuA
 
 [Documentation](https://rude-bot-org.gitbook.io/)
 
-Track your balances here: [Circular](https://www.circular.bot)
+Track your profits here: [Circular](https://www.circular.bot)
 
 An arbitrage bot for the Solana blockchain written in Typescript and dependent on Jupiter v6.
 
