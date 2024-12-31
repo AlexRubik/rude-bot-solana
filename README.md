@@ -5,6 +5,7 @@
 
 The bot is free to use, but the code is closed source.
 Source code is for sale. If interested, reach out to Alex in the Discord server (@alexdev777).
+Please watch out for scammers. I will never dm you first or send you a friend request.
 
 
 ### To get started, check out the beginner setup video or documentation below! In the docs, start with reading about requirements and then navigate to the setup page!
