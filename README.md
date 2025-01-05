@@ -4,7 +4,7 @@
 **Over $500k profit produced for users since March 2024!**
 
 The bot is free to use, but the code is closed source.
-Source code is for sale. If interested, reach out to Alex in the Discord server (@alexdev777).
+[Source code is for sale.](https://rude-bot-org.gitbook.io/rude-solana-arbitrage-bot/development/source-code-purchase) If interested, reach out to Alex in the Discord server (@alexdev777).
 Please watch out for scammers. I will never dm you first or send you a friend request.
 
 
