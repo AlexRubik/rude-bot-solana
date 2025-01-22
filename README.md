@@ -1,7 +1,9 @@
 # Solana Arbitrage Bot   
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6DTGbMNYuA)[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuOn7_kvG9B-YrFJqOx4Kpw)[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RudeLabs_io)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6DTGbMNYuA)[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLMIFlNMah1MnCqDsEJ0P2QhDr93O9KYmF)[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RudeLabs_io)
 
 [![](https://dcbadge.limes.pink/api/server/6DTGbMNYuA)](https://discord.gg/6DTGbMNYuA)
+
+Video Tutorial: https://www.youtube.com/playlist?list=PLMIFlNMah1MnCqDsEJ0P2QhDr93O9KYmF
 
 **Over $500k profit produced for users since March 2024!**
 
