@@ -3,18 +3,42 @@
 
 [![](https://dcbadge.limes.pink/api/server/6DTGbMNYuA)](https://discord.gg/6DTGbMNYuA)
 
-Video Tutorial: https://www.youtube.com/playlist?list=PLMIFlNMah1MnCqDsEJ0P2QhDr93O9KYmF
+### [Video Tutorial](https://www.youtube.com/playlist?list=PLMIFlNMah1MnCqDsEJ0P2QhDr93O9KYmF)
 
 **Over $500k profit produced for users since March 2024!**
 
-Refer to the latest [release notes](https://github.com/AlexRubik/rude-bot-solana/releases) on how to use the bot.
+## Requirements
+- Ubuntu >= 22 OS Server ([Nodestop](https://billing.nodestop.io/aff.php?aff=88) and [Tier.net](https://billing.tier.net/aff.php?aff=257) are good)
+- 12 cores or more
+- Baremetal/Dedicated server is suggested
+- RPC + GRPC connections ([Pixel](https://discord.gg/RYnvkvqxbF), [Shyft](https://discord.gg/mkax7WUu3z), [Rift](https://discord.gg/riftnode), [Shark](https://discord.gg/kMEdGGfuqb))
+- Profit scales with capital (larger trade sizes, larger profits)
 
-The bot is free to use, but the code is closed source.
-[Source code is for sale.](https://rude-bot-org.gitbook.io/rude-solana-arbitrage-bot/development/source-code-purchase) If interested, reach out to Alex in the Discord server (@alexdev777).
-Please watch out for scammers. I will never dm you first or send you a friend request.
+### Ask [Claude](https://claude.ai/)/ChatGPT how to remote into your Ubuntu server
+- This is different for every PC's Operating System
+- For example, if your PC is Windows 10, you need ask [Claude](https://claude.ai/)/ChatGPT how you would remote into your Ubuntu server using Windows 10
 
-Discord: https://discord.gg/6DTGbMNYuA
+## Installation on your Ubuntu >=22 Server
 
-YouTube: https://www.youtube.com/channel/UCuOn7_kvG9B-YrFJqOx4Kpw
-
-
+### New Server Setup
+Run these commands sequentially:
+```bash
+sudo apt update && apt upgrade -y && apt install -y screen unzip
+```
+```bash
+wget https://github.com/AlexRubik/rude-bot-solana/releases/download/v3.1.0-alpha/rude-bot-alpha3_1_0.zip
+```
+```bash
+unzip rude-bot-alpha3_1_0.zip
+```
+```bash
+cd rude-bot-alpha3_1_0
+```
+Use the --help arg to see all the possible args and what they do:
+```bash
+./rude --help
+```
+Quickstart Guide to getting the bot running ASAP:
+```bash
+./rude --overview
+```
