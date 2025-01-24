@@ -16,6 +16,7 @@
 
 ### Ask [Claude](https://claude.ai/)/ChatGPT how to remote into your Ubuntu server
 - This is different for every PC's Operating System
+- You will receive the login credentials from your server provider
 - For example, if your PC is Windows 10, you need ask [Claude](https://claude.ai/)/ChatGPT how you would remote into your Ubuntu server using Windows 10
 
 ## Installation on your Ubuntu >=22 Server
