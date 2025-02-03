@@ -27,6 +27,9 @@ Run these commands sequentially:
 sudo apt update && apt upgrade -y && apt install -y screen unzip && apt install python3-pip -y
 ```
 ```bash
+pip3 install requests python-dotenv
+```
+```bash
 wget https://github.com/AlexRubik/rude-bot-solana/releases/download/v3.1.0-alpha/rude-bot-alpha3_1_0.zip
 ```
 ```bash
