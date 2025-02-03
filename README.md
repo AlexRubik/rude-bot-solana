@@ -24,7 +24,7 @@
 ### New Server Setup
 Run these commands sequentially:
 ```bash
-sudo apt update && apt upgrade -y && apt install -y screen unzip
+sudo apt update && apt upgrade -y && apt install -y screen unzip && apt install python3-pip -y
 ```
 ```bash
 wget https://github.com/AlexRubik/rude-bot-solana/releases/download/v3.1.0-alpha/rude-bot-alpha3_1_0.zip
