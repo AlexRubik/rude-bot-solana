@@ -30,13 +30,13 @@ sudo apt update && apt upgrade -y && apt install -y screen unzip && apt install 
 pip3 install requests python-dotenv
 ```
 ```bash
-wget https://github.com/AlexRubik/rude-bot-solana/releases/download/v3.1.0-alpha/rude-bot-alpha3_1_0.zip
+wget https://github.com/AlexRubik/rude-bot-solana/releases/download/v3.2.0-alpha/rude-bot-alpha3_2_0.zip
 ```
 ```bash
-unzip rude-bot-alpha3_1_0.zip
+unzip rude-bot-alpha3_2_0.zip
 ```
 ```bash
-cd rude-bot-alpha3_1_0
+cd rude-bot-alpha3_2_0
 ```
 Use the --help arg to see all the possible args and what they do:
 ```bash
