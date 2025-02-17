@@ -46,3 +46,5 @@ Quickstart Guide to getting the bot running ASAP:
 ```bash
 ./rude --overview
 ```
+
+3.2.0
